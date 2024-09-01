@@ -1,0 +1,10 @@
+{
+  "name": "Sanjay",
+  "age": 20,
+  "role": "Developer",
+  "skills": ["Python", "JS", "Java"],
+  "bio": {
+    "height": 100,
+    "wiegth": 100
+  }
+}
