@@ -85,4 +85,6 @@ Next Session:
     Object.values(obj); // array of values of obj
     Object.keys(obj); // array keys of obj
     for...in
+
+    JSON.parse, JOSN.stringify
   
